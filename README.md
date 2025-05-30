@@ -3,6 +3,9 @@
 
 This repository contains a C++ implementation of a server-client architecture for a multiplayer game based on Rock-Paper-Scissors. It includes the server-side logic, client-side interaction, and a project report.
 
+**Course**: Operating System – Autumn 2024  
+**University of Tehran | School of Electrical & Computer Engineering**
+
 ---
 
 ## Project Contents
