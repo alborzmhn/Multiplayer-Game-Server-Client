@@ -5,7 +5,7 @@ This repository contains a C++ implementation of a server-client architecture fo
 
 ---
 
-## 📁 Project Contents
+## Project Contents
 
 - **server.cpp** - Contains the game server implementation, handling client connections, game rooms, and match results.
 - **client.cpp** - The client-side implementation allowing players to connect to the server and play the game.
@@ -13,7 +13,7 @@ This repository contains a C++ implementation of a server-client architecture fo
 
 ---
 
-## 📦 Project Features
+## Project Features
 
 ### Server Features:
 - **Game Management:**
@@ -41,7 +41,7 @@ This repository contains a C++ implementation of a server-client architecture fo
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -71,7 +71,7 @@ This repository contains a C++ implementation of a server-client architecture fo
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. **Server Initialization:**
    - Creates multiple game rooms.
@@ -87,11 +87,4 @@ This repository contains a C++ implementation of a server-client architecture fo
 4. **Game End:**
    - Server broadcasts match results when the game ends.
 
----
-
-## ⚙️ Requirements
-
-- **Compiler:** g++
-- **System:** Linux-based system recommended
-- **Libraries:** Standard C++ libraries
 
